@@ -1118,7 +1118,7 @@ function randomDate(start:any, end:any) {
 
 // Assuming you want the random dates to be between Jan 1, 2022 and Dec 31, 2024
 transactionsData.forEach(transaction => {
-  transaction.dateCreated = randomDate(new Date(2022, 0, 1), new Date(2024, 11, 31));
+  transaction.dateCreated = randomDate(new Date(2024, 1, 31), new Date(2024, 1, 1));
 });
 
 const TableOne = () => {

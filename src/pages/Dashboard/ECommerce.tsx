@@ -23,11 +23,11 @@ const ECommerce: React.FC = () => {
      
           />
         </CardDataStats>
-        <CardDataStats title="Total Profit" total="$45,2K" rate="4.35%" levelUp>
+        <CardDataStats title="Total Profit" total="SAR 18750"  levelUp>
         <LiaMoneyBillWaveSolid className="fill-green-500 dark:fill-white text-xl"/>
 
         </CardDataStats>
-        <CardDataStats title="Total Product" total="2.450" rate="2.59%" levelUp>
+        <CardDataStats title="Total Product" total="110"  levelUp>
           <svg
             className="fill-primary dark:fill-white"
             width="22"
