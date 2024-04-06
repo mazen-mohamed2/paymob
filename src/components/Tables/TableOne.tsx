@@ -6,7 +6,7 @@ const transactionsData = [
   {
     txnId: 'TXN10031',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Isabella Garcia',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -16,7 +16,7 @@ const transactionsData = [
   {
     txnId: 'TXN10032',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Noah Wilson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -26,7 +26,7 @@ const transactionsData = [
   {
     txnId: 'TXN10033',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mia Wang',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -36,7 +36,7 @@ const transactionsData = [
   {
     txnId: 'TXN10034',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'James Anderson',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -46,7 +46,7 @@ const transactionsData = [
   {
     txnId: 'TXN10035',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Chloe Kim',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -56,7 +56,7 @@ const transactionsData = [
   {
     txnId: 'TXN10036',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ethan Lee',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -66,7 +66,7 @@ const transactionsData = [
   {
     txnId: 'TXN10037',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Olivia Martinez',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -76,7 +76,7 @@ const transactionsData = [
   {
     txnId: 'TXN10038',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Jacob Brown',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -86,7 +86,7 @@ const transactionsData = [
   {
     txnId: 'TXN10039',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sophia Davis',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -96,7 +96,7 @@ const transactionsData = [
   {
     txnId: 'TXN10040',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Logan Lopez',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -106,7 +106,7 @@ const transactionsData = [
   {
     txnId: 'TXN10041',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'William Johnson',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -116,7 +116,7 @@ const transactionsData = [
   {
     txnId: 'TXN10042',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ava Smith',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -126,7 +126,7 @@ const transactionsData = [
   {
     txnId: 'TXN10043',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Harper Lee',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -136,7 +136,7 @@ const transactionsData = [
   {
     txnId: 'TXN10044',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mason Miller',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -146,7 +146,7 @@ const transactionsData = [
   {
     txnId: 'TXN10045',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ella Martinez',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -156,7 +156,7 @@ const transactionsData = [
   {
     txnId: 'TXN10046',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Elijah Hernandez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -166,7 +166,7 @@ const transactionsData = [
   {
     txnId: 'TXN10047',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Charlotte Wilson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -176,7 +176,7 @@ const transactionsData = [
   {
     txnId: 'TXN10048',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Amelia Brown',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -186,7 +186,7 @@ const transactionsData = [
   {
     txnId: 'TXN10049',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Oliver Garcia',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -196,7 +196,7 @@ const transactionsData = [
   {
     txnId: 'TXN10050',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sophia Thompson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -206,7 +206,7 @@ const transactionsData = [
   {
     txnId: 'TXN10051',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Benjamin Martinez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -216,7 +216,7 @@ const transactionsData = [
   {
     txnId: 'TXN10052',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Lucas Gonzalez',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -226,7 +226,7 @@ const transactionsData = [
   {
     txnId: 'TXN10053',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Zoe Robinson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -236,7 +236,7 @@ const transactionsData = [
   {
     txnId: 'TXN10054',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Jack Clark',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -246,7 +246,7 @@ const transactionsData = [
   {
     txnId: 'TXN10055',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Avery Lewis',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -256,7 +256,7 @@ const transactionsData = [
   {
     txnId: 'TXN10056',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Gabriel Walker',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -266,7 +266,7 @@ const transactionsData = [
   {
     txnId: 'TXN10057',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Madison Allen',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -276,7 +276,7 @@ const transactionsData = [
   {
     txnId: 'TXN10058',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Henry Young',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -286,7 +286,7 @@ const transactionsData = [
   {
     txnId: 'TXN10059',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Scarlett King',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -296,7 +296,7 @@ const transactionsData = [
   {
     txnId: 'TXN10060',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Matthew Wright',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -306,7 +306,7 @@ const transactionsData = [
   {
     txnId: 'TXN10061',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Carter Moore',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -316,7 +316,7 @@ const transactionsData = [
   {
     txnId: 'TXN10062',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Grace Taylor',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -326,7 +326,7 @@ const transactionsData = [
   {
     txnId: 'TXN10063',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Nathan Scott',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -336,7 +336,7 @@ const transactionsData = [
   {
     txnId: 'TXN10064',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Riley Harris',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -346,7 +346,7 @@ const transactionsData = [
   {
     txnId: 'TXN10065',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Dylan Martin',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -356,7 +356,7 @@ const transactionsData = [
   {
     txnId: 'TXN10066',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Evelyn White',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -366,7 +366,7 @@ const transactionsData = [
   {
     txnId: 'TXN10067',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Lillian Thompson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -376,7 +376,7 @@ const transactionsData = [
   {
     txnId: 'TXN10068',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Addison Jackson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -386,7 +386,7 @@ const transactionsData = [
   {
     txnId: 'TXN10069',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Aiden Lopez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -396,7 +396,7 @@ const transactionsData = [
   {
     txnId: 'TXN10070',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Aubrey Lee',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -406,7 +406,7 @@ const transactionsData = [
   {
     txnId: 'TXN10071',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ryan Gonzalez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -416,7 +416,7 @@ const transactionsData = [
   {
     txnId: 'TXN10072',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Camila Wilson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -426,7 +426,7 @@ const transactionsData = [
   {
     txnId: 'TXN10073',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Lucas Anderson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -436,7 +436,7 @@ const transactionsData = [
   {
     txnId: 'TXN10074',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mason Roberts',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -446,7 +446,7 @@ const transactionsData = [
   {
     txnId: 'TXN10075',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Isabelle Clark',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -456,7 +456,7 @@ const transactionsData = [
   {
     txnId: 'TXN10076',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Theo Lewis',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -466,7 +466,7 @@ const transactionsData = [
   {
     txnId: 'TXN10077',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Madeline Walker',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -476,7 +476,7 @@ const transactionsData = [
   {
     txnId: 'TXN10078',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Chase Young',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -486,7 +486,7 @@ const transactionsData = [
   {
     txnId: 'TXN10079',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Charlotte King',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -496,7 +496,7 @@ const transactionsData = [
   {
     txnId: 'TXN10080',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Oliver Wright',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -506,7 +506,7 @@ const transactionsData = [
   {
     txnId: 'TXN10081',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ethan Mitchell',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -516,7 +516,7 @@ const transactionsData = [
   {
     txnId: 'TXN10082',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Zoe Turner',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -526,7 +526,7 @@ const transactionsData = [
   {
     txnId: 'TXN10083',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Liam Cooper',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -536,7 +536,7 @@ const transactionsData = [
   {
     txnId: 'TXN10084',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Aria Hernandez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -546,7 +546,7 @@ const transactionsData = [
   {
     txnId: 'TXN10085',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Miles Davis',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -556,7 +556,7 @@ const transactionsData = [
   {
     txnId: 'TXN10086',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sophie Martinez',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -566,7 +566,7 @@ const transactionsData = [
   {
     txnId: 'TXN10087',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Julian Robinson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -576,7 +576,7 @@ const transactionsData = [
   {
     txnId: 'TXN10088',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Peyton Wilson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -586,7 +586,7 @@ const transactionsData = [
   {
     txnId: 'TXN10089',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sienna Young',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -596,7 +596,7 @@ const transactionsData = [
   {
     txnId: 'TXN10090',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Blake Richards',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -606,7 +606,7 @@ const transactionsData = [
   {
     txnId: 'TXN10091',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Nora Clark',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -616,7 +616,7 @@ const transactionsData = [
   {
     txnId: 'TXN10092',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Caleb Wright',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -626,7 +626,7 @@ const transactionsData = [
   {
     txnId: 'TXN10093',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sadie Johnson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -636,7 +636,7 @@ const transactionsData = [
   {
     txnId: 'TXN10094',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Kai Moore',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -646,7 +646,7 @@ const transactionsData = [
   {
     txnId: 'TXN10095',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ruby Lewis',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -656,7 +656,7 @@ const transactionsData = [
   {
     txnId: 'TXN10096',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ella Scott',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -666,7 +666,7 @@ const transactionsData = [
   {
     txnId: 'TXN10097',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ivy Sanchez',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -676,7 +676,7 @@ const transactionsData = [
   {
     txnId: 'TXN10098',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Landon King',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -686,7 +686,7 @@ const transactionsData = [
   {
     txnId: 'TXN10099',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mila Baker',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -696,7 +696,7 @@ const transactionsData = [
   {
     txnId: 'TXN10100',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Hudson Green',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -706,7 +706,7 @@ const transactionsData = [
   {
     txnId: 'TXN10101',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Victoria Garcia',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -716,7 +716,7 @@ const transactionsData = [
   {
     txnId: 'TXN10102',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Brooklyn Hall',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -726,7 +726,7 @@ const transactionsData = [
   {
     txnId: 'TXN10103',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Xavier Nelson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -736,7 +736,7 @@ const transactionsData = [
   {
     txnId: 'TXN10104',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Gianna Carter',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -746,7 +746,7 @@ const transactionsData = [
   {
     txnId: 'TXN10105',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Josiah Edwards',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -756,7 +756,7 @@ const transactionsData = [
   {
     txnId: 'TXN10106',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Levi Mitchell',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -766,7 +766,7 @@ const transactionsData = [
   {
     txnId: 'TXN10107',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sophia Perry',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -776,7 +776,7 @@ const transactionsData = [
   {
     txnId: 'TXN10108',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Gabriel Powell',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -786,7 +786,7 @@ const transactionsData = [
   {
     txnId: 'TXN10109',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Scarlett Morris',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -796,7 +796,7 @@ const transactionsData = [
   {
     txnId: 'TXN10110',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'James Rodriguez',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -806,7 +806,7 @@ const transactionsData = [
   {
     txnId: 'TXN10111',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Isabelle Ortiz',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -816,7 +816,7 @@ const transactionsData = [
   {
     txnId: 'TXN10112',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Lucas Anderson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -826,7 +826,7 @@ const transactionsData = [
   {
     txnId: 'TXN10113',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Charlotte Woods',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -836,7 +836,7 @@ const transactionsData = [
   {
     txnId: 'TXN10114',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Liam Coleman',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -846,7 +846,7 @@ const transactionsData = [
   {
     txnId: 'TXN10115',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Emma Larson',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -856,7 +856,7 @@ const transactionsData = [
   {
     txnId: 'TXN10116',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Oliver Griffiths',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -866,7 +866,7 @@ const transactionsData = [
   {
     txnId: 'TXN10117',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mia Fisher',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -876,7 +876,7 @@ const transactionsData = [
   {
     txnId: 'TXN10118',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Avery Stewart',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -886,7 +886,7 @@ const transactionsData = [
   {
     txnId: 'TXN10119',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Evelyn Russell',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -896,7 +896,7 @@ const transactionsData = [
   {
     txnId: 'TXN10120',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Theodore West',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -907,7 +907,7 @@ const transactionsData = [
   {
     txnId: 'TXN10121',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Amelia Reed',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -917,7 +917,7 @@ const transactionsData = [
   {
     txnId: 'TXN10122',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Isaac Martinez',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -927,7 +927,7 @@ const transactionsData = [
   {
     txnId: 'TXN10123',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Harper Bell',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -937,7 +937,7 @@ const transactionsData = [
   {
     txnId: 'TXN10124',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Elias Robinson',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -947,7 +947,7 @@ const transactionsData = [
   {
     txnId: 'TXN10125',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Chloe Campbell',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -957,7 +957,7 @@ const transactionsData = [
   {
     txnId: 'TXN10126',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Daniel Lee',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -967,7 +967,7 @@ const transactionsData = [
   {
     txnId: 'TXN10127',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mila Harris',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -977,7 +977,7 @@ const transactionsData = [
   {
     txnId: 'TXN10128',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Lucas Morgan',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -987,7 +987,7 @@ const transactionsData = [
   {
     txnId: 'TXN10129',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mason Cox',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -997,7 +997,7 @@ const transactionsData = [
   {
     txnId: 'TXN10130',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ella Bennett',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -1008,7 +1008,7 @@ const transactionsData = [
   {
     txnId: 'TXN10131',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Logan White',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -1018,7 +1018,7 @@ const transactionsData = [
   {
     txnId: 'TXN10132',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Sadie Long',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -1028,7 +1028,7 @@ const transactionsData = [
   {
     txnId: 'TXN10133',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Cameron Martinez',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -1038,7 +1038,7 @@ const transactionsData = [
   {
     txnId: 'TXN10134',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Zoe Clark',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -1048,7 +1048,7 @@ const transactionsData = [
   {
     txnId: 'TXN10135',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Julian Patel',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -1058,7 +1058,7 @@ const transactionsData = [
   {
     txnId: 'TXN10136',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Kaylee Bush',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -1068,7 +1068,7 @@ const transactionsData = [
   {
     txnId: 'TXN10137',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Aiden Watson',
     origin: 'قيد المراجعة',
     status: 'Refunded',
@@ -1078,7 +1078,7 @@ const transactionsData = [
   {
     txnId: 'TXN10138',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Harper Brooks',
     origin: 'قيد المراجعة',
     status: 'Pending',
@@ -1088,7 +1088,7 @@ const transactionsData = [
   {
     txnId: 'TXN10139',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Mason Grant',
     origin: 'قيد المراجعة',
     status: 'Completed',
@@ -1098,7 +1098,7 @@ const transactionsData = [
   {
     txnId: 'TXN10140',
     dateCreated: '2024-04-06',
-    amount: '$18,750.00',
+    amount: 'SAR 18,750.00',
     userName: 'Ella Fisher',
     origin: 'قيد المراجعة',
     status: 'Refunded',
