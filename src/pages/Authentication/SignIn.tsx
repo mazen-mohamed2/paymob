@@ -13,7 +13,7 @@ const SignIn: React.FC = () => {
   const handleLogin = (event) => {
     event.preventDefault();
 
-    const adminEmail = 'admin@example.com';
+    const adminEmail = 'womanaiz@admin.com';
     const adminPassword = 'admin123';
 
     if (email === adminEmail && password === adminPassword) {
