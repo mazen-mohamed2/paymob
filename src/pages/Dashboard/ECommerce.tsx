@@ -17,7 +17,7 @@ const ECommerce: React.FC = () => {
     <DefaultLayout>
         <h2 className='font-bold text-lg '>الحساب البنكي</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-6 xl:grid-cols-4 2xl:gap-7.5 mt-4">
-        <CardDataStats title="Total views" total="SAR 2756000" levelUp>
+        <CardDataStats title="Total views" total="SAR 3600000" levelUp>
           <FaEarthAmericas 
            className="fill-primary dark:fill-white text-xl"
      
@@ -27,7 +27,7 @@ const ECommerce: React.FC = () => {
         <LiaMoneyBillWaveSolid className="fill-green-500 dark:fill-white text-xl"/>
 
         </CardDataStats>
-        <CardDataStats title="Total Product" total="110"  levelUp>
+        <CardDataStats title="Total Product" total="140"  levelUp>
           <svg
             className="fill-primary dark:fill-white"
             width="22"

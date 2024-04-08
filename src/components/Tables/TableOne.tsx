@@ -733,394 +733,33 @@ const transactionsData = [
     orderId: 'ORD2103',
     txnType: 'Credit',
   },
-  {
-    txnId: 'TXN10104',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Gianna Carter',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2104',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10105',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Josiah Edwards',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2105',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10106',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Levi Mitchell',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2106',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10107',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Sophia Perry',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2107',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10108',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Gabriel Powell',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2108',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10109',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Scarlett Morris',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2109',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10110',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'James Rodriguez',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2110',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10111',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Isabelle Ortiz',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2111',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10112',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Lucas Anderson',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2112',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10113',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Charlotte Woods',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2113',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10114',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Liam Coleman',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2114',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10115',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Emma Larson',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2115',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10116',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Oliver Griffiths',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2116',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10117',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Mia Fisher',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2117',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10118',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Avery Stewart',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2118',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10119',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Evelyn Russell',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2119',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10120',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Theodore West',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2120',
-    txnType: 'Debit',
-  },
-  // Additional 20 entries continue below
-  {
-    txnId: 'TXN10121',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Amelia Reed',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2121',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10122',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Isaac Martinez',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2122',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10123',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Harper Bell',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2123',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10124',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Elias Robinson',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2124',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10125',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Chloe Campbell',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2125',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10126',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Daniel Lee',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2126',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10127',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Mila Harris',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2127',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10128',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Lucas Morgan',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2128',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10129',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Mason Cox',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2129',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10130',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Ella Bennett',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2130',
-    txnType: 'Debit',
-  },
-  // Additional 10 entries follow
-  {
-    txnId: 'TXN10131',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Logan White',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2131',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10132',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Sadie Long',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2132',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10133',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Cameron Martinez',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2133',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10134',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Zoe Clark',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2134',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10135',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Julian Patel',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2135',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10136',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Kaylee Bush',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2136',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10137',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Aiden Watson',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2137',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10138',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Harper Brooks',
-    origin: 'قيد المراجعة',
-    status: 'Pending',
-    orderId: 'ORD2138',
-    txnType: 'Debit',
-  },
-  {
-    txnId: 'TXN10139',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Mason Grant',
-    origin: 'قيد المراجعة',
-    status: 'Completed',
-    orderId: 'ORD2139',
-    txnType: 'Credit',
-  },
-  {
-    txnId: 'TXN10140',
-    dateCreated: '2024-04-06',
-    amount: 'SAR 18,750.00',
-    userName: 'Ella Fisher',
-    origin: 'قيد المراجعة',
-    status: 'Refunded',
-    orderId: 'ORD2140',
-    txnType: 'Debit',
-  }
+
 
 
 
 
   
   // Continue adding more entries up to 20 as needed
-];
-function randomDate(start:any, end:any) {
+];function randomDate(start:any, end:any) {
   return new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime())).toISOString().split('T')[0];
 }
 
-// Assuming you want the random dates to be between Jan 1, 2022 and Dec 31, 2024
 transactionsData.forEach(transaction => {
   transaction.dateCreated = randomDate(new Date(2024, 1, 31), new Date(2024, 1, 1));
 });
 
+for (let i = 0; i < 30; i++) {
+  transactionsData.unshift({
+    txnId: `TXN${10031 + i}`,
+    dateCreated: '2024-04-08',
+    amount: 'SAR 18,750.00',
+    userName: `User ${i + 1}`,
+    origin: 'قيد المراجعة',
+    status: 'Pending',
+    orderId: `ORD20${31 + i}`,
+    txnType: i % 2 === 0 ? 'Credit' : 'Debit',
+  });
+}
 const TableOne = () => {
   return (
     <div className="rounded-sm border border-stroke bg-white px-5 pt-6 pb-2.5 shadow-default dark:border-strokedark dark:bg-boxdark sm:px-7.5 xl:pb-1">
@@ -1156,7 +795,7 @@ const TableOne = () => {
                 </tr>
               </thead>
               <tbody className="bg-white divide-y divide-stroke dark:divide-strokedark dark:bg-boxdark">
-                {transactionsData.map((transaction, idx) => (
+                 {transactionsData.map((transaction, idx) => (
                   <tr key={idx}>
                     <td className="text-center align-middle px-6 py-4 whitespace-nowrap text-sm text-black dark:text-white">
                       {transaction.txnId}
@@ -1170,11 +809,9 @@ const TableOne = () => {
                     <td className="text-center align-middle px-6 py-4 whitespace-nowrap text-sm text-black dark:text-white">
                       {transaction.userName}
                     </td>
-                   
                     <td className="text-center align-middle px-6 py-4 whitespace-nowrap text-sm text-black dark:text-white">
-                      {transaction.origin}
+                      {transaction.status}
                     </td>
-                    
                   </tr>
                 ))}
               </tbody>
