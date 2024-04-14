@@ -13,8 +13,8 @@ const SignIn: React.FC = () => {
   const handleLogin = (event) => {
     event.preventDefault();
 
-    const adminEmail = 'womanaiz@admin.com';
-    const adminPassword = 'admin123';
+    const adminEmail = 'Abdelmagid@admins.com';
+    const adminPassword = '123456mm';
 
     if (email === adminEmail && password === adminPassword) {
       localStorage.setItem('isAuthenticated', 'true');
